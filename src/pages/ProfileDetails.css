@@ -1,0 +1,21 @@
+.profile-details {
+  background: rgba(211, 166, 166, 0.2);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  
+  width: 100vh;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(148, 101, 101, 0.18);
+  margin-top: 20px;
+}
+
+.profile-details h2 {
+  margin: 16px 0;
+  color: #efe7e7;
+}
+
+.profile-details p {
+  color: #f2ecec;
+  font-size: 1rem;
+  line-height: 1.5;
+}

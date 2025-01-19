@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "photo": "https://via.placeholder.com/150",
+      "description": "Software Engineer",
+      "location": { "lat": 37.7749, "lng": -122.4194 }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "photo": "https://via.placeholder.com/150",
+      "description": "Graphic Designer",
+      "location": { "lat": 34.0522, "lng": -118.2437 }
+    }
+  ]
+  

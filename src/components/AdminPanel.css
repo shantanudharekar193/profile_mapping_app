@@ -1,0 +1,30 @@
+.admin-panel {
+  padding: 20px;
+  background: rgba(223, 228, 230, 0.826);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(232, 211, 211, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(30, 2, 2, 0.18);
+}
+
+.admin-actions {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.admin-button {
+  background-color: rgba(250, 243, 243, 0.2);
+  color: rgb(14, 1, 1);
+  padding: 10px 15px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(29, 2, 2, 0.18);
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.admin-button:hover {
+  background-color: rgba(16, 0, 0, 0.3);
+}
